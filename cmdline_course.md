@@ -60,6 +60,4 @@ In the final part of the course, I learned how markdown, Jekyll, and GitHub page
 
 Example:
 
-| Command | Purpose | Example |
-|---|---|---|
-| `sort` | sorts lines of text alphabetically or numerically | `sort languages_all.csv` |
+![A screenshot of my work at GitHub Pages](assets/img/git_scr.JPG)
