@@ -18,7 +18,7 @@ Example:
 
 ## Module 2: Text Processing in UNIX
 
-This module focused on using text processing tools in UNIX. I learned about character encoding and practised text processing tools.
+This module focused on using text processing tools in UNIX. I learned about character encoding and practised text processing tools. This was the most challenging part of the course because there was a lot of new commands to learn. For example, I learned how to sort contents of the file.
 
 Some of the commands:
 
@@ -36,7 +36,7 @@ Example:
 
 ## Module 3: Scripting, Configuration Files and Installing Programs
 
-This module is dedicated to combining commands in scripts. I learned that scripts can help with repetitive work because step by step commands could be combined into one task.
+This module was dedicated to combining commands in scripts, configuring files and inastalling software. I learned that scripts can help with repetitive work, I tried using command-line parameters, conditional statements. I also learned more about managing environment variables, and installing software and Python packages.
 
 Example:
 
@@ -56,8 +56,8 @@ Example:
 
 ## Final module: Building Webpages using GitHub Pages
 
-In the final part of the course, I learned how markdown, Jekyll, and GitHub pages can be used to publish a website.
+Last module of a course offered a practival challenge. In the final part of the course I learned how to create and publish a personal website using GitHub Pages. I gained practical experience with  Markdown, Git branches, commits, and merging.
 
-Example:
+Illustration:
 
-![A screenshot of my work at GitHub Pages](assets/img/git_scr.JPG)
+![My project at GitHub Pages](assets/img/git_scr.JPG)
