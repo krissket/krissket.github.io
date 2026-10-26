@@ -12,7 +12,7 @@ Hi! I’m a student at the University of Helsinki, majoring in linguistics. I’
 
 ## Contact
 
-krissket.krissket@helsinki.fi. 
+krissket.krissket@helsinki.fi 
 
 ## Courses I've Taken
 
@@ -23,6 +23,7 @@ krissket.krissket@helsinki.fi.
 ## Projects
 
 [Cmdline-course Project](https://github.com/krissket/cmdline-course), fall 2026
+
 This project focuses on learning the fundamentals of Git and GitHub for version control, including creating and cloning repositories, tracking changes through commits, and reverting to previous versions. It also covers working with branches and merging changes. 
 
 ## Misc. 
