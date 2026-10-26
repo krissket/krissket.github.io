@@ -8,7 +8,7 @@ Hi! I’m a student at the University of Helsinki, majoring in linguistics. I’
 
 ## Find me on
 
-[CV Overleaf](https://www.overleaf.com/project/6adf38c4b425c225d5304645/share#10486acf0698fb3c6550b631e3a68681dba56314d7f69a96)[GitHub](https://github.com/krissket)
+[CV Overleaf](https://www.overleaf.com/project/6adf38c4b425c225d5304645/share#10486acf0698fb3c6550b631e3a68681dba56314d7f69a96), [GitHub](https://github.com/krissket)
 
 ## Contact
 
